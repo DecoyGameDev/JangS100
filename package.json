@@ -1,14 +1,14 @@
 {
-  "name": "javascript-library-template",
-  "version": "0.0.0-development",
+  "name": "JangS100",
+  "version": "1.0.0",
   "private": false,
-  "description": "JavaScript library template to focus on ⌨️ coding, 🙌 collaborating and 🚀 shipping",
+  "description": "JavaScript library to help you create code snippets with simple commands!",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vvo/javascript-library-template.git"
+    "url": "https://github.com/DecoyGameDev/JangS100.git"
   },
   "license": "MIT",
-  "author": "Vincent Voyer <vincent@codeagain.com>",
+  "author": "DecoyGameDev",
   "sideEffects": false,
   "main": "dist/",
   "module": "lib/",
