@@ -12,3 +12,4 @@ pass in: ``JangsSearchBinary(sortedArray, seekElement, comparatorCallback)``
 # (Jans) Complex Number
 Imported from a prototype of JANGS.
 You can multiply, add, subtract complex numbers.
+Use ``JanSsCPXNUMB.js``, make sure you have ``radianToDegree.js`` installed as a dep.
