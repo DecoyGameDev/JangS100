@@ -14,3 +14,6 @@ pass in: ``JangsSearchBinary(sortedArray, seekElement, comparatorCallback)``
 Imported from a prototype of JANGS.
 You can multiply, add, subtract complex numbers.
 Use ``JanSsCPXNUMB.js``, make sure you have ``radianToDegree.js`` installed as a dep.
+
+# Jangs Root
+Calculates the square root of input number. Uses Newton's meathod.
