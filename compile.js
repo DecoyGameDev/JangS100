@@ -1,4 +1,3 @@
-// create a function named input that asks for users input then returns it
 function input() {
     var userInput = prompt("Enter the file name (must be in same directory)");
     var file = new File(userInput);
