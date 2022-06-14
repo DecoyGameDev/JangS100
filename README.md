@@ -17,3 +17,4 @@ Use ``JanSsCPXNUMB.js``, make sure you have ``radianToDegree.js`` installed as a
 
 # Jangs Root
 Calculates the square root of input number. Uses Newton's meathod.
+use ``JangsquareRoot(Jnum, tolerance = 0)
